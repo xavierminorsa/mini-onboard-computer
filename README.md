@@ -3,8 +3,7 @@
 **Author:** Xavier Minorsa  
 **Tool:** KiCad 9.0.6
 
-Copyright 2026 Xavier Minorsa
-SPDX-License-Identifier: CERN-OHL-S-2.0
+Licensed under CERN-OHL-S-2.0
 
 ---
 
