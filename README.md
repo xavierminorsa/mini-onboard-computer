@@ -206,6 +206,13 @@ The memory module communicates with the MCU via SPI protocol. A pull-up resistor
 
 ---
 
+## Good additions to be made
+
+### Adding Probing pads
+One of the suggestions given was to add probe test points to critical pins to help debug problems, such as with power pins, SPI's clock, CS, MISO/MOSI pins, I2C's Clock and data pins, etc...
+
+---
+
 ## References
 
 1. Ghatul, S., Chandra P., B., Jain, S., Nair, B. G., Babu, M., Mohan, R., Safonova, M., & Murthy, J. (2020). CubeOps: Development of an STM32 based on-board computer (OBC) for small satellites and CubeSat missions. In *Space Telescopes and Instrumentation 2020: Ultraviolet to Gamma Ray* (Vol. 11444, p. 1144476). SPIE.
