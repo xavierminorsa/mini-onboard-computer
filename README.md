@@ -202,8 +202,6 @@ The memory module communicates with the MCU via SPI protocol. A pull-up resistor
 
 ![PCB Design](images/pcb_draw.png)
 
-![PCB Design (zoom in)](images/pcb_draw_zoom.png)
-
 ![3D Render of the PCB](images/pcb_3D_render.png)
 
 ---
